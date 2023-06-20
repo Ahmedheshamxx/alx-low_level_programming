@@ -3,7 +3,7 @@
 /**
  * main - Entry point
  *
- * Description: print aplhabet in lowercase then in uppercase
+ * Description: prints _putchar using putchar prototype
  *
  * Return: Always 0 (Success)
 */
